@@ -1,0 +1,20 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: darkgrey;
+    box-sizing: border-box;
+    font-family: monospace;
+}h1{
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    font-family: monospace;
+}.main{
+    background-color: white;
+    width: 60vw;
+    height: 35vh;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
