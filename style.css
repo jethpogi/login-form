@@ -18,7 +18,7 @@ body {
 .main {
   background-color: white;
   width: 100%;
-  max-width: 300px;
+  max-width: 280px;
   padding: 30px 20px 20px 20px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 1);
@@ -35,7 +35,7 @@ body {
     font-size: 20px;
     margin-left: 25px;
 }button{
-    background-color: aqua;
+    background-color:dodgerblue;
     width: 50%;
     border-radius: 20px;
     height: 25px;
@@ -47,7 +47,7 @@ body {
 }.main2{
   background-color: white;
   width: 100%;
-  max-width: 300px;
+  max-width: 280px;
   padding: 10px 20px 20px 20px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 1);
